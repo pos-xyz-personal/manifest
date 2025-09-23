@@ -77,7 +77,7 @@
   <remove-project name="platform/frameworks/native" />
   <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/modules/Connectivity" />
-  <remove-project name="platform/pacakges/modules/CellBroadcastService" />
+  <remove-project name="platform/packages/modules/CellBroadcastService" />
   <remove-project name="platform/packages/modules/IntentResolver" />
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/system/core" />
@@ -87,6 +87,7 @@
   <remove-project name="platform/build/release" />
   <remove-project name="platform/bootable/deprecated-ota" />
   <remove-project name="platform/external/avb" />
+  <remove-project name="platform/external/bouncycastle" />
   <remove-project name="platform/external/cronet" />
   <remove-project name="platform/external/dtc" />
   <remove-project name="platform/external/e2fsprogs" />
